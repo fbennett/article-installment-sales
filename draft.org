@@ -4,6 +4,8 @@
 #+AUTHOR: Frank Bennett
 #+DATE: 2018-06-05
 
+Acknowledgements  [fn:263]
+
 * Introduction
 
 Japan and many U.S. states recognize what will be referred to in this
@@ -98,14 +100,14 @@ organized-crime affiliates in the Inamura Construction affair.
 
 Finally, numerous commentators have hinted that Japanese courts take
 an "activist" approach to property relations. [fn:170] The arc of
-judicial judgments relating to the enforcement of security, reviewed
-as context for the events covered in this Article, reveals this to be
-something of a misunderstanding. In keeping with the Civil Law
-tradition, courts in Japan are tasked first and foremost with the
+judicial judgments relating to the enforcement of property rights,
+reviewed as context for the events covered in this Article, reveals
+this to be something of a misunderstanding. In keeping with the Civil
+Law tradition, courts in Japan are tasked first and foremost with the
 interpretation of statutory law. The most prominent instances of
 "judicial lawmaking" in the field of Japanese property address lacunæ
-or ambiguity in statute law, with a view to underpinning stability
-of commercial relations.
+or ambiguity in statute law, with a view to underpinning stability of
+commercial relations.
 
 At foundation, real estate development turns on two things: the
 ability to raise funds, and the ability to enforce legal
@@ -124,12 +126,14 @@ observations on the three topics noted above, and a conclusion
 that considers the implications of this study for the comparative
 study of property law issues.
 
+
 * Context
+
 ** Installment sales
 
-While an American consumer visiting Japan anytime before the 1990's
-would have been struck by the universal use of cash, to the complete
-exclusion of checks and credit cards, [fn:33] layaway plans and
+An American consumer visiting Japan anytime before the 1990's would
+have been struck by the universal use of cash, to the complete
+exclusion of checks and credit cards; [fn:33] but layaway plans and
 purchase by installments were a common feature of retail commerce in
 the period under study. In a rapidly growing economy with a high
 demand for new products but scant access to consumer credit, the
@@ -193,17 +197,18 @@ out, and firms with relatively good practices remain." [fn:134]
 
 Installment sales were driven both by the intense demand for new
 housing stock, [fn:175] and by the steady rise in property values
-following the War. Land prices escalated in a linear path from 1945
-[XXX ???] until the Oil Shock of 1973, at a rate roughly twice that of
-worker incomes. [fn:176] By the mid-1960's, after the Tokyo Summer Olympics of
-1964, land had become a target of speculation. [fn:130] In 1968, with
-a large proportion of residential real estate purchases subject to
-installment sale terms, [fn:39] housing loans exploded, [fn:38] and
-business bankruptcies simultaneously rose to record levels. The
-nagging persistence of fraud in the installment-sale sector had
-convinced a reluctant Ministry of Construction of the need for
-specific regulation, [fn:136] and the Ministry undertook a study of
-installment purchase schemes present in the market. [fn:138]
+following the War. Land prices escalated in a linear path from 1955
+until the Oil Shock of 1973, [fn:243] at a rate roughly twice that of
+worker incomes. [fn:176] By the mid-1960's, after the Tokyo Summer
+Olympics of 1964, land had become a target of speculation. [fn:130] In
+1968, with a large proportion of residential real estate purchases
+subject to installment sale terms, [fn:39] housing loans
+exploded, [fn:38] and business bankruptcies simultaneously rose to
+record levels. The nagging persistence of fraud in the
+installment-sale sector had convinced a reluctant Ministry of
+Construction of the need for specific regulation, [fn:136] and the
+Ministry undertook a study of installment purchase schemes present in
+the market. [fn:138]
 
 Transfers of real property under Japanese law take effect as between
 buyer and seller by contract, [fn:182] with registration serving to
@@ -221,7 +226,7 @@ the design of the Civil Code, but their deployment in commerce
 represented a /fait accompli/ with which regulators and the legal system
 had to cope. [fn:177]
 
-A Ministry of Construction analysis published in 1971 identified four
+A Ministry of Construction analysis published in 1970 identified four
 main types of installment sale scheme: [fn:181]
 
 - (1) Ordinary installment sales :: Agreements in this category closely
@@ -345,44 +350,38 @@ property upon completion of all payments. A significant number of
 buyers were thus extending unsecured credit to the developer from whom
 they had purchased.
 
+
 ** Real Estate Brokerage Act
 
-The Real Estate Brokerage Act (hereinafter "the Act") arose as a
-member bill [fn:240] and was promulgated on June 10, 1952, six weeks
-after the end of the Allied Occupation. [fn:14] The nation's urban
-centers had not yet recovered to pre-War population levels. [fn:18]
-The black market was in full swing, the housing situation was still
+The Real Estate Brokerage Act ("the Act") arose as a member
+bill [fn:240] and was promulgated on June 10, 1952, six weeks after
+the end of the Allied Occupation. [fn:14] The nation's urban centers
+had not yet recovered to pre-War population levels. [fn:18] The black
+market was in full swing, the housing situation was still
 dire, [fn:15] fraud and extortion were by all accounts highly visible
 in the markets for rental housing and real estate, [fn:19] and the
-situation had been aggravated by the voidance of pre-War police
-constraints under the new Constitution. [fn:21] The challenges to
-government were substantial, evidenced by the fact that the initial
-report from the drafting subcommittee consisted almost entirely of a
-list of measures that members considered for adoption but chose
-abandon or defer. [fn:20]
+situation had been aggravated by the voidance of pre-War police powers
+under the new Constitution. [fn:21] The challenges to government were
+substantial, evidenced by the fact that the initial report from the
+drafting subcommittee consisted almost entirely of a list of measures
+that members considered for adoption but chose abandon or
+defer. [fn:20]
 
 The subcommittee proposed a simple bill, requiring brokers to register
-with local authorities with simple proof of legal competence, and a
-declaration that the applicant had not been criminally convicted
-within the two years prior to filing. After passing in the House of
-Representatives without discussion, suggestions in the House of
-Councillors for tighter requirements were set aside. [fn:22] The draft
-as written was deemed an adequate exploratory step toward
-regulation, [fn:23] and the measure became law. [fn:24]
-
-Five years later, the Act underwent its first significant revision,
-again as a member bill, with the addition of a qualifying exam and
-bond requirements. The former was evidently not implemented in a
-serious way (see below), but imposition of the latter was duly
-challenged as an /ex post facto/ law and violation of the right to
-choice of employment under Constitution arts. 22(1) and 39. Plaintiff
-lost on both counts at all levels up to an including the Supreme
-Court. [fn:25] The claims in the case were extremely weak—as the Court
-noted, the regulatory requirement is a civil, not a criminal sanction,
-and falls squarely within the public policy exception written into the
-Constitution—but signal the dogged contemporary opposition of some
-segments of the real estate industry to any form of government
-intervention.
+with local authorities by offering simple proof of legal competence
+and a declaration that the applicant had not been criminally convicted
+within the two years prior to filing. In response to questioning in
+the Diet, the lead sponsor of the bill, Setoyama Mitsuo, [fn:251]
+characterized it as both regulatory and promotional, pushing criminal
+actors out of the brokerage trade, and laying the foundation for
+self-regulation. [fn:27] After passing in the House of Representatives
+without discussion, suggestions in the House of Councillors for
+tighter requirements were set aside. [fn:22] The draft as written was
+deemed an exploratory step toward regulation, [fn:23] and the measure
+became law. [fn:24] Setoyama would steer three minor revisions through
+the Diet, in 1954 (investigative committees in local government
+bodies), [fn:252] 1957 (examination and bond requirements), [fn:253]
+and 1959 (adjustment and management of bond deposits). [fn:254]
 
 In the ensuing decade, Japan's major metropoli would continue to
 expand at a furious rate, with the populations of Tokyo and Osaka
@@ -392,17 +391,17 @@ industry was central to this feat of urbanization, but rapidly rising
 land values created speculative pressures, and by degrees concensus
 grew over the need to strengthen regulation of the sector.
 
-A revision effort, once again as a member bill, was spearheaded by
-LDP Diet member Noda Uichi, who had been Minister of Construction at the
-time of the Act's original introduction. [fn:27] The resulting
-amendment, passed into law on July 10, 1964, was intended to have a
-sweeping impact on industry discipline, and full implementation was
-set for April 1, 1967 to allow for necessary preparations. The
-revision included the following measures:
+The Act underwent its first major revision in 1964, [fn:250] as a
+member bill sponsored by Noda Uichi, [fn:255] who had been Minister of
+Construction in the Yoshida cabinet when the original bill was passed
+in 1952. Passed into law on July 10, the first Noda revision was
+intended to have a sweeping impact on industry discipline, and full
+implementation was set for April 1, 1967 to allow for necessary
+preparations. The revision included the following measures:
 
-- Imposition of a licensing requirement. [fn:185] As opposed to a
-  registration requirement, this implies a power of discretion in the
-  licensing authority.
+- Imposition of a licensing requirement. [fn:185] As opposed to mere
+  registration requirement, this gave rise to a power of discretion in
+  the licensing authority.
 
 - Licensing by Ministry of Construction for brokers or brokerages
   operating in multiple prefectures. [fn:186]
@@ -410,9 +409,9 @@ revision included the following measures:
 - A change in the designation of qualified brokers from "Real Estate
   Business Staff" (宅地建物取引員) to "Real Estate Business Agents"
   (宅地建物取引主任者), [fn:187] with the aim of clearly delineating
-  those qualified under the new, more stringent examination (which in
-  Noda's words when introducing the final bill, was to be "raised to
-  high school level"). [fn:28]
+  those qualified under the new, more stringent qualifications (which,
+  as Noda indicated when introducing the final bill, now included a
+  requirement of graduation from high school). [fn:28]
 
 - The bond requirement in the 1957 revision was set at 100,000 for the
   main office, and 50,000 for each satellite office, to a maximum
@@ -436,7 +435,7 @@ revision included the following measures:
   Council. [fn:193]
 
 The progressive tightening of licensing and oversight requirements was
-evidently not universally welcomed by officials in the Ministry of
+neither universally welcomed by officials in the Ministry of
 Construction. [fn:184] In the interval between enactment of the
 revision and its enforcement, however, conditions continued to
 deteriorate. On April 27, 1966, the chief of the Public Safety Bureau
@@ -447,12 +446,11 @@ and February 1966, the operation yielded criminal charges against 225
 persons, 126 of whom were unregistered brokers. [fn:194]
 
 Concern over puffery and fraud and their effect on land prices and
-public trust prompted a further fast-track amendment to the
-Act, [fn:195] shortly after the effective date of the Noda
-amendments—but this time as a government-sponsored Cabinet bill. The
-practices targeted are clear from the elements of the revision, which
-affixed real estate brokers with the following affirmative
-obligations:
+public trust prompted a further fast-track amendment to the Act,
+shortly after the effective date of the Noda amendments—but this time
+as a government-sponsored Cabinet bill. [fn:195] The practices
+targeted are clear from the elements of the revision, which affixed
+real estate brokers with the following affirmative obligations:
 
 - Accuracy in advertising by real estate brokers with respect to the
   location, size, boundaries, zoning restrictions, environment,
@@ -487,11 +485,51 @@ approved by the lower chamber on July 21. [fn:32] With the support of
 all three major parties, this revision took effect two months from its
 official date of passage, on October 1, 1967. [fn:201]
 
+Provisions of the Real Estate Brokers Act figured in four
+Constitutional challenges that reached the Supreme Court, each
+unsuccessful. The first attacked the bond requirement under sections
+12-2 and 12-5 of the Act as revised in 1957 [fn:247] as an excessive
+restriction on the freedom of employment under Constitution article
+22, [fn:258] and as an illegal interference with life, liberty and the
+pursuit of happiness under article 13. [fn:259] In a Grand Bench
+decision, the Court held that the bond requirements come within the
+public welfare exception of both articles. [fn:256]
+
+A second challenge posited that the revocation of a license for
+failure to post bond under the 1957 amendment was an /ex post facto/
+law in violation of Constitution article 39. [fn:260] The Court
+overturned the claim, noting that Article 39 applies to criminal
+process only, and is irrelevant to the Real Estate Brokers Act, which
+concerns civil obligations leading to civil liability. [fn:257]
+
+A third case concerned a separate statute, the Technicians Act of
+1957, which imposed an examination requirement on the plaintiff. In a
+challenge under Constitution article 22, the Court cited its previous
+Grand Bench judgment concerning the Real Estate Brokers Act as
+authority, implying that the examination requirement of that Act
+(which had been mentioned only in dicta in the prior decision) would
+also fall within the public welfare exception to Constitution article
+22. [fn:261]
+
+Finally, judgment in a case challenging the penalties for trading
+without registration under the Real Estate Brokers Act was handed down
+on June 17, 1971. Plaintiff's claim was based on Constitution article
+22 and article 31 (due process). The Article 22 claim failed in like
+matter to previous challenges. The Article 31 challenge proposed a
+narrow interpretation of the Act's coverage of "building-construction
+land" (/takuchi/), asserting that local authorities did not have power
+to apply the Act to trade in land not yet specifically slated for
+construction of a building. The Court adopted a broader
+interpretation, to include land transactions with that general purpose
+(which would include speculative sales), without regard to the
+immediate condition of the land in question. [fn:262]
+
 The next government-sponsored revision to the Real Estate Brokers Act
 would be that of June 16, 1971, which addressed installment sale
 contracts. The events leading up to its passage involved several
 further aspects of the contemporary legal environment for real estate
 business, to which we now turn.
+
 
 ** Clearinghouse for commercial notes
 
@@ -557,6 +595,7 @@ was presented, sorted and processed by hand, in volumes that strained
 the capacity of existing infrastructure, not only at the Tokyo
 Clearinghouse, but in banking offices as well.
 
+
 ** Shōkō Chūkin Bank
 
 The Shōkō Chūkin Bank was formed in 1936 for the purpose of supporting
@@ -585,6 +624,7 @@ authorizes cooperatives to support their membership through the
 discounting of promissory notes. [fn:53] When recognized by Shōkō
 Chūkin Bank, a cooperative is entitled to discount promissory notes to
 the Bank.
+
 
 ** Bailiff service
 
@@ -664,6 +704,7 @@ hoodlums," [fn:120] a channel was left to draw on their services for a
 transition period, [fn:110] after which they would be dismissed and left
 to their own devices.
 
+
 * Scandal and Reform
 
 Inamura Construction was established as a closely held corporation in
@@ -739,16 +780,16 @@ nickname: "tunnel corporation." [fn:67] On June 15, 1968, Tōhō Sangyō
 became involved in a vain effort to save Inamura Construction from
 financial collapse. [fn:213]
 
-As noted above, there is an expectation in Japanese commerce that
-commercial notes are to be used to facilitate independent transactions
-for value. [fn:214] When a note is issued purely for the purpose of raising
-funds (a "financing note"), this is taken to be a signal that the
-issuer is on the brink of insolvency.  Given the force of reputation
-in Japan's rapidly growing, under-policed economy of the time,
-concealing weakness would have been a business imperative. Lacking
-security to offer for further bank lending, Inamura's management
-sought to raise funds through the issue of promissory notes, while
-attempting to conceal their nature. [fn:60]
+As noted above, there is an expectation in Japanese commerce that promissory notes are
+to be used to facilitate independent transactions for value. [fn:214]
+When a note is issued purely for the purpose of raising funds (a
+"financing note"), this is taken to be a signal that the issuer is on
+the brink of insolvency.  Given the force of reputation in Japan's
+rapidly growing, under-policed economy of the time, concealing
+weakness would have been a business imperative. Lacking security to
+offer for further bank lending, Inamura's management sought to raise
+funds through the issue of promissory notes, while attempting to
+conceal their nature. [fn:60]
 
 The full story of Inamura Sakonshirō's efforts to steady the finances
 of his company is not known, but the following events appear in public
@@ -923,40 +964,188 @@ the immediate cause of Inamura Construction's likely inevitable
 collapse came to light on March 26, 1970, after police in Osaka had
 traced the fraud ring's operations to Tokyo. [fn:142]
 
+
+
 ** Legislative response
 
 At a committee session in April 1968, a member of the ruling party and
 a spokesman for the Ministry of Construction agreed that installment
 sales of real estate should be directly regulated, to avoid a backlash
 from retail purchasers in the event of trouble. [fn:9] The sentiment
-was prescient: Inamura Construction collapsed five months
-later. Resistance to government intervention evaporated, and after a
-period of further study, installment sales of real estate were brought
-under comprehensive regulation by legislation passed on June 16, 1971. [fn:237]
+was prescient: Inamura Construction collapsed five months later. If
+there was any remaining resistance to affirmative regulation of
+installment sales contracts, it evaporated, and after a period of
+further study, installment sales of real estate were brought under
+comprehensive regulation by legislation passed on June 16,
+1971. [fn:237]
 
 The reform consisted of two laws: one a revision to the Real Estate
-Brokers Act; [fn:157] the other a new law on Advance-Payment Land and Building
-Sale Business. [fn:158] The former applies to sales of property identified
-to the contract at the time of sale. The latter applies to sale arrangements
-that involve a series of payments into a dedicated savings account before
-the target property is identified.
+Brokers Act; [fn:157] the other a new Advance-Payment Land and
+Building Sales Business Act. [fn:158] The former applies to sales of
+property identified to the contract at the time of sale. The latter
+applies to sale arrangements that involve a series of payments into a
+dedicated savings account before the target property is
+identified. The two Acts were introduced as a pair in Construction
+Committee, and both were enacted on June 16, 1971.
 
-[LEGISLATION]
 
-- Real Estate Brokers Act
-  - must be a K.K. (so better accounting practices than Inamura Kensetsu)
-  - outline of general regulatory tightening and capital requirements
-  - sec. 41: protection of escrow payments
-  - sec. 42: limitation of cancellation provisions
-  - sec. 43: prohibition of reservation of title
+*** Real Estate Brokers Act revision
 
-- Advance-Payment Real Estate Business Act
-  - reg requirements of Construction Act and Real Estate Brokers Act apply
-  - sec. 4: registration includes form of contract
-  - 
+This second Ministry-led revision to the Real Estate Brokers Act added
+amended its statement of purpose to directly reference consumer
+protection as its objective, [fn:266] and considerably reorganized and
+expanded the existing statute. Introducing the bill in committee,
+Minister of Construction Nemoto Ryūtarō noted nine features of the
+revision:
 
-- Reference first reported case on Installment Sale
+- Licensing :: Stiffer requirements for obtaining a license, and
+               extenson of the disability period following the
+               striking out of a license from two years to three. [fn:268]
+
+- License concession :: Prohibition of an existing practice whereby
+     licensed brokers lent their name to unlicensed sales
+     agents. [fn:267]
+
+- Duty to inform :: The duty to inform introduced by the 1967 revision
+     is strengthened with requirement that the explanation be provided
+     in writing, signed by the licensed broker. [fn:269]
+
+- Construction approval :: Advertising and sales prior to
+     the completion of construction is prohibited unless development
+     permit has been obtained and blueprints approved. [fn:270]
+
+- Contract terms :: Several constraints are imposed on contracting
+                    practices. These apply to sales of properties that
+                    are identified to contract, although they may yet
+                    be under construction:
+                    
+                    1. Liquidated damages and fees for termination are
+                       limited to 20% of the purchase price. [fn:271]
+                       Earnest money is similarly limited to 20% of
+                       the price. [fn:272]
+                    2. Liability of the seller for warranty against
+                       defects cannot be waived or limited for the
+                       first two years after transfer of
+                       possession. [fn:273]
+                    3. In installment sales, even in the event of
+                       breach by the buyer, seller must provide a
+                       30-day grace period before termination of
+                       contract. [fn:274]
+                    4. In installment sales, seller must transfer
+                       ownership to the buyer after 30% of the
+                       purchase price has been paid. Neither reservation
+                       of title nor security by (re)transfer of title
+                       (/jōto tanpo/) are permitted. [fn:275]
+
+- Prepayment insurance :: In respect of sales of prior to the
+     completion of construction, seller may not accept payments until
+     it has obtained a guarantee from an approved financial
+     institution, or obtained a policy of insurance, in respect of
+     amounts to be paid by the buyer. [fn:276]
+
+- Financial institutions :: Measures were introduced for the vetting
+     and regulation of financial institutions for the provision of
+     prepayment insurance. [fn:277]
+
+- Business offices :: Brokers must report all locations of customer
+     contact (/annaijō nado/) to their licensing authority (Ministry
+     of Construction or local authority, as the case may be). [fn:278]
+
+- Sanctions :: Penalties and other measures for the enforcement of duties
+               under the revision added or adjusted as appropriate.
+
+
+*** Advance-Payment Real Estate Business Act
+
+The Advance-Payment Real Estate Business Act was introduced as new
+legislation alongside the 1971 revision to the Real Estate Brokers
+Act. It applies to buyers-club schemes in which prospective purchasers
+pay into a savings account that can later be applied to purchase of
+a property from the seller's inventory. Minister of Construction Nemoto
+Ryūtarō raised five points with respect to the bill:
+
+- Scope :: Advance-payment real estate business is defined as the sale
+           of land or buildings with two or more payments made prior to
+           the identification of property to the contract, regardless of
+           the label applied to the transaction by the parties. [fn:279]
+
+- Permit :: Firms planning to engage in advance-payment real estate
+            business must obtain a permit. Permits to be issued only
+            to firms that demonstrate financial and staff capacity to
+            participate responsibly in the market. [fn:280]
+
+- Bond :: On March 31 and September 30 of each year, advance-payment
+          sellers must show a bond deposit or trust contract for bond
+          of 30% of sums paid in under outstanding advance-payment
+          contracts. [fn:281]
+
+- Payout :: Obligations owed to purchasers under an advance-payment
+            contract by advance-payment sellers may be satisfied out
+            of bond deposits, under administrative procedures
+            established by the Ministry of Construction or local
+            authorities. [fn:282]
+
+- Contract practices :: Advance-payment sellers are subject to a duty
+     to explain, and damages for termination are limited by
+     law. [fn:283]
+
+- Sanctions :: The Ministry of Construction and local authorities have
+               power to order remedial action by advance-payment
+               sellers depending on their financial position, and
+               regulatory authority to ban the opening of new
+               contracts by sellers with a worsening position. [fn:284]
+
+*** Effects
+
+Both pieces of legislation aim to reduce the risk exposure of home
+purchasers under installment sale schemes, by compelling transfer of
+title at the 30% payment threshold (under Real Estate Brokers Act),
+and by regulation of the solvency, competence, and business practices
+of sellers (under both Acts).
+
+Although neither Act touches the Civil Code directly, the effect of
+Real Estate Brokers Act section 43 is to limit the freedom (albeit of
+real estate brokers only) to allocate title by contract. That the
+legislation accomplishes this through the widely discussed method of
+"administrative guidance" should not be understood to compromise its
+force or uniformity of application. The statutory language concerning
+transfer of title is unambiguous, as are the provisions for sanction
+in the event of violation. 
+
+The financial supervision provisions of the Advance-Payment Real
+Estate Business Act, which are regulatory rather than instrumental in
+nature, figure in a 2004 decision of the Osaka High Court, which held
+in favor of local authorities in a challenge to their licensing and
+supervision of a failed advance-payment seller. [fn:285] To date,
+litigation under the title-transfer provision of the Real Estate
+Brokers Act does not appear to have surfaced in reported cases.
+Judicial silence in the latter case is not unexpected, as
+administrative authorities are bound the enforce Section 43 according
+to its terms, with no scope for discretion.
+
+
 * Implications
+
+The Inamura Construction affair is but loosely connected to the
+installment-sale legislation of 1971. It was not an immediate trigger
+for the new rules, which had been in preparation for some time, but as
+its mention in the 1970 Ministry of Construction analysis indicates,
+it was a motivating example of the potentially systemic risks that the
+legislation was intended to control. As such, the affair is an
+informative reflection of the contemporary legal and business
+environment.
+
+As a number of commentators have noted in recent years, the Japanese
+legal system has undergone significant change in recent decades,
+driven in particular by the collapse of the asset bubble of the early
+1990s. [fn:286] The events reviewed in this Article transpire in the
+formative years of the previous era; and that being the case, the
+recent watershed presents a suitable occasion for revisiting and
+examining some of the assumptions that we have come to carry concerning
+Japanese legal phenomena in general.
+
+
+
 ** On law without sanctions
 
 The Inamura Construction affair exhibits several features associated
@@ -964,16 +1153,12 @@ with the view, originally set forth in the important work of John
 Haley, [fn:143] that Japan is a land shaped around law without
 sanctions: the clearinghouse guillotine rule; forebearance in
 prosecution; reliance on criminal rather than civil sanctions; and
-gangland enforcement of property claims. Context is important,
-however, and it would not do justice to the lives touched by these
-events to move on with only that single observation. Understanding the
-mechanics of what happened is also important if policymakers elsewhere
-are to judge the extent to which choices made by Japan in the course
-of development are to be emulated or avoided.
-
-# Can phrase the above differently. As the case exhibits several
-# features of law-without-sanctions, it is an opportunity for
-# thinking about both its limits, and the mechanics behind it.
+gangland enforcement of property claims. These factors are
+interrelated, and the aftermath of the Inamural Construction failure
+offers an opportunity to examine their operation in the period under
+study. Context is important, particularly if lessons are to be
+extracted from Japanese experience in jurisdictions undergoing similar
+stresses.
 
 The first, most obvious point to note is that the narrative ends with
 the passage of effective regulatory legislation. Faced with a rising
@@ -1071,6 +1256,7 @@ These subsequent events may be taken to suggest that the customary
 preconditions summarized by Foote are not devoid of predictive value
 with respect to politicians.
 
+
 ** On private ordering
 
 In a widely cited study based on 1972-1997 time series data from
@@ -1114,8 +1300,8 @@ were cut off from state-sanctioned collection work. Some would exit
 the trade, others would pursue similar work elsewhere. The revision
 would have the effect of encouraging the Kawasumi and Takahashi
 collection crews that worked the Inamura and Akijima creditors'
-meetings. [fn:103] This was familiar ground for the players concerned,
-and if the risks were higher, so were the potential rewards.
+meetings. This was familiar ground for the players concerned, and if
+the risks were higher, so were the potential rewards.
 
 It is certainly true that flaws in Japan's civil execution procedures
 opened a niche in which criminal elements were able to operate—but
@@ -1142,57 +1328,65 @@ context is not whether organized crime is encouraged by failings of
 the law, but rather whether the law succeeded in colonizing organized
 crime.
 
+
 ** On judicial activism
 
 A reader approaching this subject from the English literature could be
 excused for wondering why the Japanese courts did not solve this
-problem themselves. Indeed, the view seems to be widely accepted that
-Japanese judges, propelled either by a conservative desire to preserve
-relationships, or by a liberal one to readjust power
-imbalances, [fn:152] have made a habit of interfering arbitrarily in
-bargained-for property relations. This pervasive assumption is
-sufficiently at odds with observed behavior to warrant a brief review
-of its foundations.
+problem themselves. It seems to be widely accepted among scholars
+writing in English that Japanese judges, propelled either by a
+conservative desire to preserve relationships, or by a liberal one to
+protect the weak against the strong, make a habit of interfering
+arbitrarily in bargained-for property relations. [fn:152] This
+assumption is sufficiently pervasive and sufficiently at odds with
+observed behavior to warrant a brief critical review of its
+foundations.
 
-The wellspring of the assertion appears to be a 1961 paper by Hozumi
-Tadao, translated by Rex Coleman and John Haley as /The Structure and
+The wellspring of the assertion is a 1961 paper by Hozumi Tadao,
+translated by Rex Coleman and John Haley as /The Structure and
 Function of the "Interpretation" of Juristic Acts/. [fn:154] The
 article proposes a model for understanding judicial reasoning. One of
 the examples presented for analysis is a series of cases in which
 Japanese judges imposed mandatory renewal of a particular type of
 lease, in decisions handed down prior to the passage of legislation
-with similar effect in 1921. [fn:156] While the point is easily
-missed, the cases presented by Hozumi are textbook examples of courts
-confronted with poorly composed black-letter law that /compels/ them
-to engage in judicial interpretation.
+with similar effect in 1921. [fn:156] Hozumi's focus is on the task
+that the courts set for themselves in extending the leases in these
+cases, not with the underlying motivations for doing so. As a result,
+the point is easily missed that the courts here were confronted with
+black-letter law that /compelled/ them to engage in some form of
+judicial interpretation. [fn:244]
 
 In the Japanese context, land leases of the type examined by Hozumi
 (/shakuchi/) are created specifically to support the ownership of a
 building on land owned by another. Despite the practical
 inseparability of the two, Japanese law recognizes buildings and land
-as separate assets of equal stature. This is dictated by statute. That
-being the case, to evict a tenant from a building that they own, which
-was constructed with the consent of the lessor, would violate a
-property right of the building owner. Faced with a contradiction
-between a contract in respect of one asset (land) and a property
-interest in another (the building), courts chose to give preference to
-the property interest. [fn:155] This is an awkward result, but it is
-hard to read it as a lawless feat of judicial activism.
+as separate assets of equal stature. This is not a judicial invention:
+it is dictated by statute. [fn:245] That being the case, to evict a
+tenant from a building that they own, which was constructed with the
+consent of the owner of the land on which it stands, would violate a
+property right of the building owner. Faced with a conflict between
+claims by a party who has ceded possession of one asset (land) against
+a party in actual possession of another (the building), courts chose
+to give effect to the latter's proprietary interest. [fn:155] This is
+an awkward outcome, but it is hardly an outlier in terms of judicial
+interpretation. English courts have reached similar results where
+legal and equitable property claims collide in this way. [fn:246]
 
 A theme more representative of Japanese property decisions would be
 the courts' pronounced respect for registered interests.  A borrower
 who transfers ownership of immoveable property to a lender subject to
-a (contractual) promise to reconvey on repayment (/jōtō tanpo/) will
-lose her title if the collateral is sold to a third party (courts will
-not stretch to protect the borrower's unregistered claim). [fn:162] A
-lessee that conspires with a property owner to obstruct the
-enforcement of a hypothec against the property (foreclosure) is
-vulnerable to preemptive eviction (courts will extend themselves to
-protect the value of registered security). [fn:238] A buyer of land on
-a quiet residential street is free to construct a garish manga-themed
-tourist attraction there if he wishes to do so (courts will not impose
-arbitrary constraints on ownership merely to preserve the character of
-a neighborhood). [fn:239] Registered interests carry a lot of weight.
+a merely contractual promise to reconvey on repayment (/jōtō tanpo/)
+will lose her title if the collateral is sold to a third party (courts
+will not stretch to protect the borrower's unregistered
+claim). [fn:162] A lessee that conspires with a secured borrower to
+obstruct foreclosure on a hypothec is vulnerable to preemptive
+eviction on petition by the secured lender (courts will extend
+themselves to protect the value of registered security). [fn:238] A
+buyer of land on a quiet residential street is free to construct a
+garish, visually disruptive, manga-themed tourist attraction there if
+he wishes to do so (courts will not impose arbitrary constraints on
+ownership merely to preserve the character of a
+neighborhood). [fn:239] Registered interests carry a lot of weight.
 
 Returning to the main subject, in an installment sale of immoveable
 property, retention of title gave the seller a right to evict the
@@ -1206,16 +1400,15 @@ arbitrage, and which gave rise to a large volume of litigation.
 Security by provisional registration was the subject of an important
 1974 article by Haley. [fn:145] The device—with a Teutonic appellation
 that translates literally as "provisional registration of a
-preliminary contract for substitute performance subject to a
-suspensive condition"—is a complex amalgam of contract terms and
-registration practice that mimics the effect of a hypothec (analogous
-to a mortgage or land charge in the Common Law world). As its name
-suggests, the interest operates by granting the secured party an
-option, protected by registration, to claim ownership of collateral if
-certain conditions (i.e. default) are met.
+preliminary contract for substitute performance [possibly] subject to
+a suspensive condition"—is a complex amalgam of contract terms and
+registration practice that mimics the effect of a hypothec or
+mortgage. As its name suggests, the interest operates by granting the
+secured party an option, protected by registration, to claim ownership
+of collateral if certain conditions (i.e. default) are met.
 
 If applied literally as a transfer of bare title, conversion of a
-preliminary registration of title to full ownership could grant its
+provisional registration of title to full ownership would grant its
 holder a windfall, cutting off subordinate security interests and
 attachment creditors, and denying the defaulting debtor any equity in
 the property. In a rapidly expanding economy with steadily rising land
@@ -1264,111 +1457,287 @@ to a bailiff for execution, without resort to public auction. [fn:153]
 This had quite the same effect as simple recognition of provisional
 registration (without judicial intervention) would have done. The
 debtor had no right to a surplus, regardless of the value of the
-property at the point of default. There is no evidence that courts
-undercut this potentially harsh result.
+property at the point of default.
 
-In a pure retention of title arrangement, there is no registration
-entry to memorialize the "sale." The seller is able to offer the
-property as security or otherwise dispose of it to parties with no
-knowledge of the purchase agreement. In the event of default, no
-adjustment to the register is required to give force to the seller's
-petition for eviction. These would be straightforward cases: in most,
-there would be little to dispute, and nothing to appeal. If
-juddge-made law is assumed to be driven primarily by the need to
-resolve ambiguity and reconcile conflicting provisions, the
-near-complete absence of installment sales /per se/ from the case
-reports is not surprising.
+Although disputes over installment land sales were reportedly
+common, [fn:264] there was no legal basis on which to protect buyers
+from unfavorable terms. The seller held registered title to the
+property, and buyer's possession was entirely based on the contract of
+sale. [fn:265] In the event of default, no adjustment to the register
+was required to give force to a petition for eviction. These would be
+straightforward cases, with little to dispute, and nothing to appeal.
+Courts did not provide a solution because there was none to be had.
+
 
 * Conclusion
 
-Japan's legal and commercial environment is today very different from
-that which prevailed in the days of high growth and "black mist" that
-delivered the Inamura Construction affair. The hair trigger of the
-clearinghouse guillotine rule is no longer a leading proxy for
-business failure. [fn:161] Incentives for security by transfer or
-retention of bare title have abated due to changes in substantive
-law [fn:165] and procedure [fn:167] that block openings for
-obstruction and skimming in mortgage enforcement proceedings. [fn:166]
-The methods of bankruptcy predators have shifted from gun-toting
-glamor to the more conventional business of boardroom asset
-stripping. [fn:159] The world has moved on to fresh tumults, and the legal
-system has moved with it.
+The legal and commercial environment is very different in Japan today
+than it was in the "black mist" era that delivered the Inamura
+Construction affair. The hair trigger of the clearinghouse guillotine
+rule is no longer a leading proxy for business failure. [fn:161]
+Incentives to contract around the standard mortgage enforcement
+process have abated, due to changes in substantive law [fn:165] and
+procedure [fn:167] that block openings for obstruction and
+skimming. [fn:166] The methods of bankruptcy predators have shifted
+from gun-toting glamor to the more conventional business of boardroom
+asset stripping. [fn:159] The world has moved on to fresh tumults, and
+much in the law has moved with it; [fn:160] but a property system does
+not have the luxury of moving on.
 
-Specialists have noted that these changes, particularly those
-introduced after the collapse of the asset bubble in the 1990s, will
-demand an ongoing reappraisal of long-held assumptions about the
-dynamics of Japanese law. [fn:160] With respect to property law, this is
-overdue. The development of any property system is an incremental
-process, in which tightly integrated rules governing widely dispersed
-interests are adjusted, by courts and legislature alike, in response
-to changing conditions and strategic manipulation by stateholders.
+Once promulgated and enforced, property rights generate interdependent
+expectations in a widely dispersed body of stakeholders. The scope and
+content of adjustments to the rules at each forward step is
+constrained in law by the existing procedural and substantive
+framework, [fn:248] and in practice by existing bargained-for
+entitlements. Revisions to property law invariably represent a
+trade-off between competing or conflicting forces, which in turn
+produce expectations of their own. The most striking example of this
+in Japan is the separate ownership of land and buildings, a compromise
+reached early in the Meiji era, long before the deployment of the
+Civil Code. [fn:249] The 1971 installment land sales legislation
+similarly represents a compromise, between a contemporary policy of
+encouraging rapid expansion of housing stock and a perceived need to
+control systemic market risk. Although implemented as an
+administrative regulation, the rule has a direct effect on the scope
+and operation of Civil Code interests (and is taught a such in law
+school curricula).
 
-[dot dot dot]
+There is an element of the ad hoc in the development of property
+rules, best captured in the narrative of their formation—a point
+painfully familiar to long-suffering students of the common law of
+property. Comparison across systems will inevitably reveal significant
+divergence in rules, but the lessons to be derived from the
+comparative exercise lie not in the mere fact of difference, but in
+respect for the forces that produced them. That many American
+jurisdictions are more permissive than Japan toward installment land
+sales is less a reflection of any particular backwardness in American
+jurisdictions, than of the fact that no American jurisdiction has been
+compelled to absorb lessons from similar conditions of population
+pressure, speculation, and systematic fraud.
 
-Finally, judicial activism is not necessary to explain the most
-significant adjustments made by Japanese courts to property
-relations. Within this field, at least, in keeping with the Civil Law
-tradition, courts innovate when dissonance within the law itself, or
-dissonance between practice and law, becomes so severe as to make it
-necessary. The researcher who approaches case law in this light will
-find few genuine surprises, but a depth of logic emanating from the
-first principles of the Civil Code that is widely shared in Japanese
-legal circles, if not universally portable.
+There is value in narrative. The wealth of statistical data collected
+during Japan's hundred-year experience with legal development has been
+celebrated as a rich source of comparative insight for countries
+undergoing the stresses of development. [fn:103] The same can be said,
+with emphasis, of the written record of research and decision-making
+over the same interval, which is now widely accessible, and from which
+there remains much for us to learn.
 
-
-
-The importance of historical context has if anything risen with
-subsequent reforms. Systematic property rules, once introduced, foster
-expectations in a diffuse population of stakeholders, and cannot be
-altered without careful attention to feasibility and possible
-resistance. 
-
-systems grow incrementally in response to
-conditions that challenge their underpinnings. Each 
-
-Property law reform is
-a general process that plays out under unique circumstances, and
-extracting lessons to guide the former requires an understanding of
-the latter. [ugh]
-
-[Also: reform inevitably involves compromise, and the range of
-possible compromises is enriched by study of past experience in other
-jurisdictions.]
-
-- There are lessons here for "developing economies."
-- The lessons are not simple cookie-cutter rules.
-
-Several commentators have noted that Japan is distinctive for the
-volume of reliable data that is available for the period of
-transition, and that this is a boon to other countries undergoing
-rapid change. This is great, but researchers should take note that this
-data is not all in numeric form. As this study indicates, important
-moves in the development process may not be reflected in statistics,
-or even in patterns of recorded cases.
-
-The landscape of Japanese property law is today vastly different from
-what it was in 1968. Some change can be characterized as systematic
-progress. Improvements to enforcement. Others are the product of circumstance
-and accident. Regulation of installment sales.
-
-System is a combination of statutory law (an abstract system of rules
-mandated to the courts), and judicial accommodation. The stability and
-meaning of the whole arises from historical understanding of how and why
-its elements were put in place. That makes the study of history important.
-
-[CONCLUDE]
-
-- Contrast again with US state laws
-- Final word: could say silly things, but facts show a richer picture;
-  just one small step in reform efforts; pols persist; cast shade
-  again on "private ordering"; culture of institutions
-  (courts/bailiffs, RE industry/MOC); tie-off.
-
-#+CAPTION: Workflow for note clearance and notification
-#+LABEL:   fig:SED-HR4049
-[[./notes-normal-flow.png]]
 
 * Footnotes
+
+[fn:286] /See e.g./, { | Foote, 2007 | | |zu:6204:SWX26EX9}.
+
+[fn:285] { |  koto.saibansho, 2004 | | |zu:6204:REX4HU75}.
+
+[fn:284] { | 積立式宅地建物販売業法, 1971 | sec. 42-45 | |zu:6204:A7AUV7SV}.
+
+[fn:283] { | 積立式宅地建物販売業法, 1971 | sec. 34-36 | |zu:6204:A7AUV7SV}.
+
+[fn:282] { | 積立式宅地建物販売業法, 1971 | sec. 24-33 | |zu:6204:A7AUV7SV}.
+
+[fn:281] { | 積立式宅地建物販売業法, 1971 | sec. 17-23 | |zu:6204:A7AUV7SV}.
+
+[fn:280] { | 積立式宅地建物販売業法, 1971 | sec. 3-5 | |zu:6204:A7AUV7SV}.
+
+[fn:279] { | 積立式宅地建物販売業法, 1971 | sec. 2(2) | |zu:6204:A7AUV7SV}.
+
+[fn:278] { | 宅地建物取引業法, 1952 | sec. 50(2) | |zu:6204:WN3XKAH7} /as
+revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:277] { | 宅地建物取引業法, 1952 | sec. 51-64 | |zu:6204:WN3XKAH7} /as
+revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:276] { | 宅地建物取引業法, 1952 | sec. 41 | |zu:6204:WN3XKAH7} /as
+revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:275] { | 宅地建物取引業法, 1952 | sec. 43 | |zu:6204:WN3XKAH7} /as
+revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:274] { | 宅地建物取引業法, 1952 | sec. 42 | |zu:6204:WN3XKAH7} /as
+revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:273] { | 宅地建物取引業法, 1952 | sec. 41 | |zu:6204:WN3XKAH7} /as
+revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:272] { | 宅地建物取引業法, 1952 | sec. 39 | |zu:6204:WN3XKAH7} /as
+revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}. A contemporary essay by Hoshino considers
+whether the recognized Japanese practice of making contracts
+terminable by forfeiture of "earnest money" represents a weak or a
+strong cultural sense of contractual obligation. { | Hoshino, 1972 |
+p. 40-41 | |zg:512484:TBVRWWTS}. Be that as it may, the constraint
+imposed by the 1971 revision to the Real Estate Brokers Act are
+clearly intended as a consumer protection measure.
+
+[fn:271] { | 宅地建物取引業法, 1952 | sec. 38 | |zu:6204:WN3XKAH7} /as
+revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:270] { | 宅地建物取引業法, 1952 | sec. 33 & 36 | |zu:6204:WN3XKAH7}
+/as revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:269] { | 宅地建物取引業法, 1952 | sec. 14\-3 | |zu:6204:WN3XKAH7}
+/as revised by/ { | 宅地建物取引業法の一部を改正する法律,
+1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:268] { | 宅地建物取引業法, 1952 | sec. 52(5) &
+52(6) | |zu:6204:WN3XKAH7} /as revised by/ { | 宅地建物取引業法の一部
+を改正する法律, 1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:267] { | 宅地建物取引業法, 1952 | sec. 13 &
+68 | |zu:6204:WN3XKAH7} /as revised by/ { | 宅地建物取引業法の一部を改
+正する法律, 1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:266] The pre-revision version of Article 1 read as follows:
+
+The purpose of this Act is to implement a licensing scheme for those
+engaged in the business of transacting in land and buildings,
+regulating members of that sector to the end of the proper conduct of
+business, with a view to achieving fairness in land and building
+transactions and promoting the use of land and buildings.
+
+The post-revision version reads as follows:
+
+The purpose of this Act is implement a licensing scheme for those
+engaged in the business of transacting in land and buildings,
+regulating members of that sector to the end of the proper conduct of
+business, with a view to protecting the interest of purchasers and
+achieving smooth market exchange of land and buildings.
+
+[translations by the author]
+
+{ | 宅地建物取引業法の一部を改正する法律, 1971 | | |zu:6204:WF7VGAA9}.
+
+[fn:27] { | 瀬戸山, 国会議事録 1952 | | |zu:6204:AAN663LB}.
+
+[fn:265] For sample form of contract in these transactions, see { | 稲
+村, 1961 | p. XXX | |zu:6204:DEBCHW2L}.
+
+[fn:264] /See/ { | 稗田治, 1959 | | |zu:6204:28YKGKRI}; { | 根本,
+1971 | | |zu:6204:GKIT73EH}.
+
+[fn:263] The author enjoyed the benfit of advice and support from
+numerous quarters in the pursuit of the work reflected in this
+article. Appreciation is due in particular to the following persons
+for patience, support, and priceless feedback: Mieko Bennett; Giorgio
+Colombo; Ikeda Masanori; Imai Katsunori; Masuda Tomoko; Matsuura
+Yoshiharu; Sean McGinty; Nakahigashi Masafumi; Udagawa Yukinori;
+Richard Westra; staff of the Central Library and the Law Library of
+Nagoya University; and students in two undergraduate and one
+postgraduate seminar at Nagoya University in the Spring term of 2018.
+
+[fn:262] { |  saiko.saibansho.ichi, 1971 | | |zu:6204:R8PRQQ2S}.
+
+[fn:261] { | 技術士法, 1957 | | |zu:6204:UBR264T5} /superceded by/ { |
+技術士法, 1983 | | |zu:6204:DUJTWSTZ}; { | 19 民集 213
+saiko.saibansho.ni, 1965 | | |zu:6204:KDHX9MV8} /citing/ { | 7 刑集
+577 saiko.saibansho.dai, 1953 | | |zu:6204:VBLT46QN}.
+
+[fn:260] Article 39 of the Constitution provides as follows:
+
+No person shall be held criminally liable for an act which was lawful
+at the time it was committed, or of which he had been acquitted, nor
+shall he be placed in double jeopardy.
+
+[fn:259] Article 13 of the Constitution provides as follows:
+
+All of the people shall be respected as individuals. Their right to
+life, liberty, and the pursuit of happiness shall, to the extent that
+it does not interfere with the public welfare, be the supreme
+consideration in legislation and in other governmental affairs.
+
+[fn:258] Article 22 of the Constitution provides as follows:
+
+Every person shall have freedom to choose and change his residence and
+to choose his occupation to the extent that it does not interfere with
+the public welfare. 2) Freedom of all persons to move to a foreign
+country and to divest themselves of their nationality shall be
+inviolate.
+
+[fn:247] Section 12-2 (Bond amount and the posting of bond) provides as follows:
+
+(1) A party engaged in real estate brokerage business must post the
+assurance bond at the bonding office nearest to its main office.
+
+(2) The amount of the bond in the previous subsection is to be calculated
+as the total of 100,000 yen for the main office, and and 50,000 yen for each 
+additional office. However, the total amount of the bond shall not exceed
+300,000 yen.
+
+Section 12-5 (remediation of bond shortfall) provides as follows:
+
+When the amount of bond posted under section 12-2(2) above is
+insufficient to satisfy the claim of a party exercising a right [to
+compensation] pursuant to the previous provision [section 12-4], the
+[obligated] party engaged in real estate brokerage must post bond for
+the shorfall amount within two weeks of the date specified by order of
+the Ministry of Justice or the Ministry of Construction.
+
+[fn:257] { | 151 集刑 229 saiko.saibansho.ni,
+1964 | | |zu:6204:7BIBRGLI} /citing/ { | 3 民集 199
+saiko.saibansho.dai, 1949 | | |zu:6204:EPCNE8WG}.
+
+[fn:256] { | 16 民集 2143 saiko.saibansho.dai,
+1962 | | |zu:6204:3SPEN8F8} /citing/ { | 4 刑集 956
+saiko.saibansho.dai, 1950 | | |zu:6204:3RANU2YQ} /and/ { | 7 刑集 577
+saiko.saibansho.dai, 1953 | | |zu:6204:VBLT46QN}.
+
+[fn:255] Following a career in the Ministry of Finance extending into
+the post-War era, elected to the House of Councillors in
+June 1950. Appointed Minister of Construction in the Yoshida cabinet
+in 1951. Elected to the House of Representatives for Gifu Prefecture
+District 1 in 1952, retaining the seat through nine successive
+elections, retiring from politics in October 1979.
+
+[fn:254] { | 宅地建物取引業法の一部を改正する法律, 1959 | | |zu:6204:TKEJJCLW}; { | 会議録情報, 1959 | | |zu:6204:INIXRC9S}; { | 会議録情報, 1959 | | |zu:6204:6P82S3R8}.
+
+[fn:253] { | 宅地建物取引業法の一部を改正する法律, 1957 | | |zu:6204:Z7IEX4SN}; { | 会議録情報, 1957 | | |zu:6204:IVD9T4Z3}; { | 松野, 1957 | | |zu:6204:DK7FLLZS}.
+
+[fn:252] { | 宅地建物取引業法の一部を改正する法律, 1954 | | |zu:6204:JMD78A8L}; { | 会議録情報, 1954 | | |zu:6204:6ULXSLT6}; { | 会議録情報, 1954 | | |zu:6204:N2IFYDGE}.
+
+[fn:251] A judge until the end of the War, Setoyama resigned his post
+rather than serve under the Occupation, and entered politics as
+Representative for the (former) Second District of Miyazaki Prefecture
+in 1949. He would later serve as Minister of Construction, Minister of
+Justice, and Minister of Education. { | 瀬戸山,
+1985 | | |zu:6204:QQEBYWHW}; { | anon. 瀬戸山三男,
+2018 | | |zu:6204:DLMVCKHC}.
+
+[fn:103] { | Milhaupt, & West, 2000 | p. 44 | |zu:6204:P2HSTV6N}; { |
+Ginsburg, 2010 | p. 24 | |zu:6204:3CARCTIM}.
+
+[fn:250] { | 宅地建物取引業法の一部を改正する法律,
+1964 | | |zu:6204:X37777J9}; { | 会議録情報,
+1964 | | |zu:6204:JVIT96MB}; { | 会議録情報,
+1964 | | |zu:6204:2PHPMHFJ}.
+
+[fn:249] /See/ { | 福島, 1939 | | |zu:6204:A3J9W9A4}; /see also/ { |
+Bennett, 2000 | | |zu:6204:WBPBTD49}.
+
+[fn:248] /See/ { | Haley, et al., 2014 | p. 79 | |zu:6204:VDBWU75V}.
+
+[fn:246] /See/ { | Williams & Glyn's Bank Ltd v. Boland, 1981 AC 487
+1981 | | |zu:6204:RRZBMH33}.
+
+[fn:245] { | 民法, 1896 | sec. 388-389 | |zu:6204:3W2DTTTT}; { | 不動
+産登記法, 1899 | sec. 24 | |zu:6204:6Y5LL38K} /reenacted as/ { | 不動
+産登記法, 2004 | sec. 2(1) | |zu:6204:4G98FEG2}.
+
+[fn:244] { | Haley, 1998 | p. 140-147| (detailed discussion of
+pre-1921 judgments, omitting mention that building ownership is a
+first-order property interest subject to independent
+conveyance and registration) |zu:6204:HZDVW882}.
+
+[fn:243] { | anon. 全国市街地価格指数全国木造建築費指数, 1970 | |
+p. 6 |zu:6204:VTEURN3Q}.
 
 [fn:242] { | anon. “黒い霧”晴れぬまま︰関谷、稲村氏らハナ高々︰総選挙,
 1969 | | |zu:6204:W9FAE9S5}.
@@ -1403,9 +1772,11 @@ other purposes." { | 佐藤, 1970 | p. 19 | |zu:6204:4H9342T2}.
 
 [fn:240] { | 会議録情報, 1952 | | |zu:6204:GPQYM879}; { | 会議録情報,
 1952 | | |zu:6204:ZGAXXY99}. In Japanese legislative procedure,
-priority is given to bills proposed to the Cabinet through the
-ministries. As would be noted in Diet testimony years later, the
-Ministry of Construction was itself initially reluctant to undertake
+priority is given to bills arising in the ministries ("Cabinet
+bills"). /See/ { | Haley, 1998 | p. 35 | |zu:6204:HZDVW882}. That this
+legislation originally arose as a "member bill" indicates, as a
+Minister of Construction would note in Diet testimony years later,
+that the Ministry was itself initially reluctant to undertake
 regulation of the retail real estate trade, but was charged with that
 responsibility through the political process. /See/ { | 西村,
 1967 | | |zu:6204:FFLRHLDV}.
@@ -1428,7 +1799,8 @@ Bennett, 2009 | | p. 489-494 |zu:6204:JURU4GI5}.
 [fn:155] Detailed analysis of the cases collected by Hozumi must await
 another occasion, but is is sufficient for present purposes to note
 that they consistently refer to the lessee as the /owner/ of the
-relevant building.
+relevant building. The account in the main text is consistent with,
+although orthogonal to, { | Haley, 1991 | p. 89-90 | |zu:6204:HIRB73GF}.
 
 [fn:237] { | 宅地建物取引業法の一部を改正する法律, 1971 | | |zu:6204:WF7VGAA9}.
 
@@ -1487,7 +1859,7 @@ total of 43 related items in /Yomiuri Shinbun/ and /Asahi Shinbun/.
 
 [fn:215] { | anon. 稲村代議士取調べ︰警視庁︰倒産にからむ不正, 1970 | | |zu:6204:W8TU27MK}.
 
-[fn:214] /See/ supra page XXX.
+[fn:214] /See supra/ text accompanying note [fn:203].
 
 [fn:213] { | anon. ニセ手割り引く？稲村建設倒産で参院委んが追及：商工中金が約三千万円, 1969 | | |zu:6204:BQ39BXY2}.
 
@@ -1556,13 +1928,15 @@ the proviso from § 12-2[2]) |zu:6204:X37777J9}.
 
 [fn:184] As noted in the text, the orginal legislation and its
 amendments were sponsored as member bills, without direct support from
-the Ministry of Construction, up to the 1964 revision. { | 会議録情報,
-1952 | | |zu:6204:GPQYM879}; { | 会議録情報,
-1952 | | |zu:6204:ZGAXXY99}; { | 会議録情報,
-1954 | | |zu:6204:6ULXSLT6}; { | 会議録情報,
-1954 | | |zu:6204:N2IFYDGE}; { | 会議録情報,
-1957 | | |zu:6204:IVD9T4Z3}; { | 松野, 1957 | | |zu:6204:DK7FLLZS};
-{ | 会議録情報, 1959 | | |zu:6204:INIXRC9S}; { | 会議録情報,
+the Ministry of Construction, up to the 1964 revision. 
+{ | 会議録情報, 1952 | | |zu:6204:GPQYM879}; 
+{ | 会議録情報, 1952 | | |zu:6204:ZGAXXY99}; 
+{ | 会議録情報, 1954 | | |zu:6204:6ULXSLT6}; 
+{ | 会議録情報, 1954 | | |zu:6204:N2IFYDGE}; 
+{ | 会議録情報, 1957 | | |zu:6204:IVD9T4Z3}; 
+{ | 松野, 1957 | | |zu:6204:DK7FLLZS};
+{ | 会議録情報, 1959 | | |zu:6204:INIXRC9S}; 
+{ | 会議録情報,
 1959 | | |zu:6204:6P82S3R8}; { | 会議録情報,
 1964 | | |zu:6204:JVIT96MB}; { | 会議録情報,
 1964 | | |zu:6204:2PHPMHFJ}. Concerning the stance of the Ministry,
@@ -1587,9 +1961,9 @@ study) |zu:6204:6Y5LL38K}; { | 不動産登記法, 2004 | sec. 105 & 109 |
 
 [fn:178] { | 民法, 1896 | | |zu:6204:6W3EA4WX}.
 
-[fn:176] [XXX AGAIN, ECON REPORT]
+[fn:176] { | anon. 地価対策研究班研究報告書, 1965 | p. 71 | |zu:6204:UVMYB5KB}.
 
-[fn:175] [XXX CITE ECON REPORT ON HOUSING CONDITIONS]
+[fn:175] /See/ { | anon. 地価対策研究班研究報告書, 1965 | p. 60-80 | |zu:6204:UVMYB5KB}.
 
 [fn:174] { | 宅地建物取引業法, 1952 | | |zu:6204:WN3XKAH7}.
 
@@ -1601,25 +1975,27 @@ study) |zu:6204:6Y5LL38K}; { | 不動産登記法, 2004 | sec. 105 & 109 |
 
 [fn:17] { | Tanikawa, 1973 | p. 120-129 | |zu:6204:73SMEWBM}.
 
-[fn:170] [XXX usual suspects on "judicial activism"]
+[fn:170] /See/ infra note [fn:170].
 
-[fn:169] [XXX HALEY law without sanctions, spirit, authority w/o power]
+[fn:169] { | Haley, 1982 | | |zu:6204:A2W7S9BJ}; { | Haley, 1991 | p. 169-191 | |zu:6204:HIRB73GF}.
 
-[fn:168] The Inamura affair does not appear in a leading history of
-political scandals in the era. [XXX CITE TO HISTORY]
+[fn:168] As the case did not go to trial, the Inamura affair does not
+appear in a leading history of political trials in the period. { | 田
+中, et al., 1980 | | |zu:6204:KSNZ2YKB}.
 
-[fn:164] [XXX Kakuei Tanaka career summary]
+[fn:164] { | Stockwin, 2003 | | |zu:6204:IAE7645M}
 
-[fn:163] [XXX Sato dissolution of the Diet]
+[fn:163] { | anon. 「きょう解散」を言明　佐藤首相, 1966 | | |zu:6204:C6HAGMSW}.
 
-[fn:160] { | Foote, 2007 | | |zu:6204:SWX26EX9}.
+[fn:160] /See generally/ { | Foote, 2007 | | |zu:6204:SWX26EX9}.
 
 [fn:159] { | anon. 整理屋、倒産屋にカモられるな! 200社に居座るプロの正
 体, 2018 | | (the sole article on "bankruptcy racketeers" or /seiriya/
 in a recent insolvency-themed special issue of a popular business
 magazine, focusing on a consultant who specializes in the
 orchestration of delay-in-payment to large
-creditors) |zu:6204:W6WJF2JK}.
+creditors) |zu:6204:W6WJF2JK}; /see also/ { | Foote, et al., 2007 |
+p. 595, 614-615 | |zu:6204:ZWRFYLYP}.
 
 [fn:167] /See/ { | saiko.saibansho.ni, 1989 | | |zu:6204:L7ZHE4K8}{ |
 saiko.saibansho.ni, 1991 | | |zu:6204:44ZTPI7T}; { | 民事執行法,
@@ -1637,7 +2013,7 @@ judicial and legislative countermeasures) |zu:6204:5HIWZF9I}.
 
 [fn:165] { | 民法の一部を改正する法律, 2004 | sec. 395 | |zu:6204:85FRG22P}.
 
-[fn:161] /See supra/ note XXX.
+[fn:161] /See supra/ notes [fn:44]–[fn:46].
 
 [fn:158] { | 積立式宅地建物販売業法, 1971 | | |zu:6204:A7AUV7SV}.
 
@@ -1669,7 +2045,12 @@ Pardieck, 2008 | p. 592 | (going further to argue that "the judiciary
 exists not simply to fill 'lacunae left by legislative and
 administrative inaction' but works, at times, in an antagonistic
 relationship with the bureaucracy and the Diet" [citations
-omitted]) |zu:6204:7EXQX7X9}; { | GINSBURG, 2010 | p.  23-24 |
+omitted]) |zu:6204:7EXQX7X9}; { | Oda, 2009 | | (while not mentioning
+pre-1921 litigation, the author states, "The by-product of
+modernisation was the emergence of socially deprived people, primarily
+workers and tenant farmers. In order to protect those who were in
+socially weak positions, laws were enacted to modify the provisions of
+the Civil Code.") |zu:6204:CXAKZEZQ}; { | GINSBURG, 2010 | p.  23-24 |
 ("oft-noted judge-made rules minimizing the ability of Japanese
 landlords to evict tenants [etc] all serve to reinforce, not
 substitute for, private ordering") |zu:6204:3CARCTIM}; { | Haley, et
@@ -1832,11 +2213,6 @@ overall performance of the civil execution system) |zu:6204:67DAWKFC}.
 [fn:104] { | 中山福藏, 1951 | | (on the gangland demeanor of
 bailiffs) |zu:6204:JLZHSZ2R}; { | 吉田賢一, 1955 | | (on long-standing
 abuses in the auction process) |zu:6204:EB72R78C}.
-
-[fn:103] Supra, text accompanying note XX. The post-reform decline in
-"firm" numbers presented in the M&W paper could be due to many things
-(consolidation, economic conditions), but is at least consistent with
-exit from the criminal sector.
 
 [fn:102] { | Milhaupt, & West, 2000 | p. 78 | |zu:6204:P2HSTV6N}.
 
@@ -2123,10 +2499,6 @@ scheme was vainly challenged in the courts as a violation of the right
 to free choice of occupation under Constitution art. 22(1). { |
 saiko.saibansho.ni, 1965 | | |zu:6204:KDHX9MV8}.
 
-[fn:27] The calligraphy of the late Minister Noda today graces the
-cover page of the trade journal of the All-Japan Real Estate
-Association, founded in 1952.
-
 [fn:26] { | anon. 第6表：都道府県の5年ごとの人口増加数及び人口増加率ー
 大正9年〜昭和50年, 1975 | | |zu:6204:Z6M75V5L}.
 
@@ -2207,9 +2579,7 @@ in Tokyo) |zu:6204:2EZW56ZK}
 { | Tanaka, & Smith, 1976 | pp. 80-86 | |zu:6204:VTK77CA8}.
 
 [fn:14] { | Treaty of Peace with Japan, 1952 U.N.T.S. 1832 1952 |
-n. 1 | |zu:6204:L68SHBIP}. The bill's lead sponsor, Setoyama Mitsuo,
-had served as a judge until the end of the war, but resigned his
-post rather than administer law under the Occupation.
+n. 1 | |zu:6204:L68SHBIP}.
 
 [fn:13] At the point of the legislation concerned in this article, the
 LDP majority in the lower house of the Diet was 288 against 90 for the
@@ -2221,6 +2591,7 @@ a chamber of 250. { | anon. 戦後主要政党の変遷と国会内勢力の推�
 [fn:12] The pattern of litigation followed by legislative reform is noted in
 { | Upham, 1987 | | |zu:6204:U8RL747D}. 
 /See also/ { | Tanase, 1990 | | |zu:6204:TC2L4SAR};
+{ | Haley, 1998 | p. 34 | |zu:6204:HZDVW882};
 { | Bennett, 1986 | | |zu:6204:9LQLI8GW}; 
 /and/ { | Bennett, 2009 | | |zu:6204:JURU4GI5}.
 
